@@ -13,7 +13,7 @@ body {
     background-color:black ;
     background-image: url('./img/elep.png');
     background-repeat: no-repeat, no-repeat;
-    background-size:contain;
+    background-size:500px 200px;
     color: #000;
 }
 
