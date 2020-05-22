@@ -10,6 +10,7 @@
 body { 
     font-family: "Gilroy", sans-serif; 
     margin: 0;
+    background-color: #000;
     color: #000;
 }
 #main-page { 
