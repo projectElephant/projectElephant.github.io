@@ -13,9 +13,10 @@ body {
     color: #000;
 }
 #main-page { 
-    background-image: url('./img/elep.png'), url('./img/bg.jpg');
+    background-image: url('./img/elep.png');
     background-repeat: no-repeat, no-repeat;
-    background-size: cover, cover;
+    background-size: 1054px 900px;
+    color: #000
 }
 .container {
     display: grid;
