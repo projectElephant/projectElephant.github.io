@@ -10,7 +10,6 @@
 body { 
     font-family: "Gilroy", sans-serif; 
     margin: 0;
-    background-color: rgb(92, 90, 90);
     color: #000;
 }
 #main-page { 
@@ -18,8 +17,6 @@ body {
     background-repeat: no-repeat, no-repeat;
     background-size: cover, cover;
 }
-
-
 .container {
     display: grid;
     position: relative;
