@@ -8,7 +8,7 @@
     src: url("./fonts/Gilroy-ExtraBold.otf") format("opentype");
 }
 body { 
-    font-family: "Gilroy", sans-serif; 
+       , sans-serif; 
     margin: 0;
     background-color: #000;
     color: #000;
@@ -68,6 +68,11 @@ h2 {
    text-align: left;
    vertical-align: top;
    float: right;
+}
+.about-slon {
+color: white;
+text-align: left;
+
 }
 
 
