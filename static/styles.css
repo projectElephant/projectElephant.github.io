@@ -8,7 +8,7 @@
     src: url("./fonts/Gilroy-ExtraBold.otf") format("opentype");
 }
 body { 
-       , sans-serif; 
+    font-family: 'Gilroy', sans-serif; 
     margin: 0;
     background-color: #000;
     color: #000;
