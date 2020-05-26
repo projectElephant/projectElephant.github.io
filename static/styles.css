@@ -61,14 +61,14 @@ h2 {
 }
 .about-project {
    background-repeat: no-repeat, no-repeat;
-   position: absolute;
-   padding: 5px;
+   margin-right: 25px;
    color: aliceblue;
    font-size: 200%;
-   text-align: left;
    vertical-align: top;
+   padding: 10px;
    float: right;
 }
+
 .about-slon {
 color: white;
 text-align: left;
