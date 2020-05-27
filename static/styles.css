@@ -61,9 +61,10 @@ h2 {
 }
 .about-project {
    background-repeat: no-repeat, no-repeat;
+   margin-right: 25px;
+   text-align: center;
    color: aliceblue;
    font-size: 200%;
-   margin-right: 25px;
 }
 
 .about-slon {
