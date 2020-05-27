@@ -60,10 +60,10 @@ h2 {
     font-size: 2em;
 }
 .about-project {
-   background-repeat: no-repeat, no-repeat;
-   margin-right: 25px;
+   background-repeat: no-repeat;
    text-align: center;
    color: aliceblue;
+   margin-right: 25px;
    font-size: 200%;
 }
 
@@ -72,10 +72,16 @@ color: white;
 text-align: left;
 font-family: 'Gilroy';
 border: darkorange;
-
-
 }
-
+.content { 
+    margin-bottom: 5px;
+    width: 676px;
+    padding: 10px;
+    color: white;
+    font-size: 200%;
+    text-align: center;
+    width: 100%;
+}
 
 @media (min-width: 550px) {
     .container {
