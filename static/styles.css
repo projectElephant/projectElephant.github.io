@@ -71,7 +71,7 @@ h2 {
 color: white;
 text-align: left;
 font-family: 'Gilroy';
-border: darkorange;
+border: #fc0;
 }
 .content { 
     margin-bottom: 5px;
@@ -82,6 +82,44 @@ border: darkorange;
     text-align: center;
     width: 100%;
 }
+.caps-background {
+    background:#fc0;
+    color: black;
+    padding: 5px;
+    font-size: 200%;
+    text-align: center;
+}
+.caps-bckgrnd {
+    background: white;
+    color: black;
+    padding: 1px;
+    font-size: 200%;
+    text-align: center;
+}
+.caps-bckgrnd1 {
+    background:#fc0;
+    color: black;
+    padding: 5px;
+    font-size: 200%;
+    text-align: center;
+}
+.belyi-fon {
+    background: white;
+    padding: 2px;
+    border: 2px solid white; 
+    padding: 20px;
+    background:white;
+    margin-right: 2px;
+    margin-bottom: 2px;
+}
+.jeltyi-fon {
+    background:#fc0;
+    color: black;
+    padding: 5px;
+    font-size: 200%;
+    text-align: center;
+}
+
 
 @media (min-width: 550px) {
     .container {
