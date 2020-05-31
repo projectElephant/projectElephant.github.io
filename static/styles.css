@@ -66,12 +66,21 @@ h2 {
    margin-right: 25px;
    font-size: 200%;
 }
+.about-heading {
+color: white;
+text-align: center;
+font-size: 200%;
+font-family: Gilroy;
+font-weight: bold;
+
+
+}
 
 .about-slon {
 color: white;
-text-align: left;
+text-align: center;
 font-family: 'Gilroy';
-border: #fc0;
+border: 2px solid  #fc0 ;
 }
 .content { 
     margin-bottom: 5px;
