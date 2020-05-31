@@ -77,10 +77,12 @@ font-weight: bold;
 }
 
 .about-slon {
+margin-bottom: 5px;   
 color: white;
 text-align: center;
 font-family: 'Gilroy';
 border: 2px solid  #fc0 ;
+
 }
 .content { 
     margin-bottom: 5px;
