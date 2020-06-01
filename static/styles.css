@@ -99,9 +99,9 @@ text-align: center;
 .about-team {
 background-color: white;
 background-size: 100%;
-float: center;
 font-size: 195%;
-float: center;
+max-width: 960px;
+margin: 0 auto;
 
 
 }
