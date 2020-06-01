@@ -61,10 +61,11 @@ h2 {
 }
 .about-project {
    background-repeat: no-repeat;
-   text-align: center;
    color: aliceblue;
    margin-right: 25px;
    font-size: 200%;
+   border: 8px;
+   text-align: center;
 }
 .about-heading {
 color: white;
@@ -134,19 +135,14 @@ text-align: center
     text-align: center;
 }
 .bly-fn {
-        background: white;
         padding: 20px;
-        border: 2px solid white; 
-        margin-right: 2px;
-        margin-bottom: 2px;
-}
-    a:link {
-    color: black;
-    padding: 2px;
+        text-align: center;
+        font-size: 200%;
+        color: white;
 }
 a:hover {
-    background: white;
-    color: black;
+    background: #fc0; 
+    color: #ffe; 
 }
 
 
