@@ -68,6 +68,11 @@ h2 {
    max-width: 950px;
    margin: 0 auto; 
    }
+.about-kar {
+   text-align: center;
+   margin: 2px;
+
+}
 
 .about-heading {
 color: white;
