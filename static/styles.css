@@ -37,7 +37,7 @@ nav {
 }
 
 .nav-link {
-    font-size: 1em;
+    font-size: 1.1em;
     margin-left: 0.5em;
     background-color: #fc0;
     color: #000;
@@ -62,13 +62,13 @@ h2 {
     font-size: 2em;
 }
 .about-project {
-   background-repeat: no-repeat;
-   color: aliceblue;
-   margin-right: 25px;
-   font-size: 100%;
-   border: 2px;
    text-align: center;
-}
+   color: white;
+   font-size: 95%;
+   max-width: 950px;
+   margin: 0 auto; 
+   }
+
 .about-heading {
 color: white;
 text-align: center;
