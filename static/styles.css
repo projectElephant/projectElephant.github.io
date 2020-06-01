@@ -88,11 +88,24 @@ font-family: 'Gilroy';
 border: 2px solid  #fc0 ;
 
 }
-.about-shemaslon {   
+.about-shemaslon {
 background-color:#fc0;
 background-size: 100%;
 padding: 5px;
 text-align: center;
+
+}
+
+.about-team {
+background-color: white;
+background-size: 100%;
+float: center;
+font-size: 150%;
+float: center;
+
+
+
+
 
 
 }
